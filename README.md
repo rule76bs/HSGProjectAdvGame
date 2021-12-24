@@ -62,6 +62,7 @@ There are a lot of things I kind of would like ot add, but I am running out of t
 - Add more weapons, more Monsters, people etc.
 - Add more pictures or icons representing enemies, weapons etc.
 - Choosing and personalizing character
+- Absolutely need to make it a little bit more aesthetically pleasing (text, alignment, the whole window etc.)
 - And many more ideas I have already forgotten.. but generlaly make this a more proper game!
 
 If you read so far, thank you for this course! I wish I had taken the time to learn more - this actually did make it fun for me and kept me engaged!
