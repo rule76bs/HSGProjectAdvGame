@@ -53,6 +53,10 @@ There are currently 6 monsters available, each also with different features.
 - Medicine Icon to the right: when clicked, you consume 1 health potion -> increases health by 20
 - Chest Icon: Shows inventory of items collected and weapons owned
 - Question mark: Shows what you need to unlock the city BUT only AFTER you talked to the guard
+- At the lake, when you bathe it props you up to health 15 should you be below it
+- The magician can enchant your weapon - makes it a little bit more potent
+- The healer can heal you or sell you health potions
+- Look around.. you might be surprised about what you will find
 
 #### Ideas to add
 There are a lot of things I kind of would like ot add, but I am running out of time to do it. Though the possibilities seem endless.
